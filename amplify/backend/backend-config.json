@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "graphqlawsdemo9c74081e": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
